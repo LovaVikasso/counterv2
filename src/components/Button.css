@@ -1,0 +1,9 @@
+.SetButton {
+    margin: 10px 10px 10px 10px;
+    width: 100px;
+    height: 25px;
+    background-color: darkgrey;
+    border: darkgrey;
+    border-radius: 3px;
+    color: white;
+}
